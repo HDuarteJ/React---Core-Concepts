@@ -1,6 +1,7 @@
 {
   "name": "react-essentials-start",
   "version": "0.0.0",
+  "homepage": "https://hduartej.github.io/react---Core-Concepts",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
